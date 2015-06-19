@@ -1,0 +1,1 @@
+Since regular mechanize won't work with google app engine cron, I hope this one will.
